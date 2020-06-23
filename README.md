@@ -4,7 +4,7 @@ This is the official Infinity Ddostool. Please use this at own risk, we aren't a
 
 # Tutorial - Windows
 
-**This is how to ddos on Windows!**
+**This is how to ddos on Windows!**\
 (1) Download Git: https://gitforwindows.org/ \
 (2) Open Git Bash\
 (4) Type: git clone https://github.com/InfinityZeldris/ddostool \
@@ -13,7 +13,7 @@ This is the official Infinity Ddostool. Please use this at own risk, we aren't a
 
 # Tutorial - Android
 
-**This is how to ddos on Android!**
+**This is how to ddos on Android!**\
 (1) Download Termux - Link below\
 (2) Open Termux\
 (3) first type : pkg install git  (Wait until it's finished)\
