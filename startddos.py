@@ -3,6 +3,29 @@
 from queue import Queue
 from optparse import OptionParser
 import time,sys,socket,threading,logging,urllib.request,random
+import time
+
+
+print('Thanks for helping us out with ddosing, member of Infinity! Loading |')
+
+time.sleep(0.5)
+
+print('Thanks for helping us out with ddosing, member of Infinity! Loading /')
+
+time.sleep(0.5)
+
+print('Thanks for helping us out with ddosing, member of Infinity! Loading -')
+
+time.sleep(0.5)
+
+print('Thanks for helping us out with ddosing, member of Infinity! Loading \')
+
+time.sleep(0.5)
+
+print('Thanks for helping us out with ddosing, member of Infinity! Loading |')
+
+time.sleep(0.5)
+
 
 def user_agent():
 	global uagent
