@@ -5,24 +5,23 @@ from optparse import OptionParser
 import time,sys,socket,threading,logging,urllib.request,random
 import time
 
-
-print('Thanks for helping us out with ddosing, member of Infinity! Loading |')
-
-time.sleep(0.5)
-
-print('Thanks for helping us out with ddosing, member of Infinity! Loading /')
+print ("\033[92m",time.ctime(time.time()),"\033[0m \033[94m Thanks for helping us out with ddosing, member of Infinity! Loading | \033[0m")
 
 time.sleep(0.5)
 
-print('Thanks for helping us out with ddosing, member of Infinity! Loading -')
+print ("\033[92m",time.ctime(time.time()),"\033[0m \033[94m Thanks for helping us out with ddosing, member of Infinity! Loading / \033[0m")
 
 time.sleep(0.5)
 
-print('Thanks for helping us out with ddosing, member of Infinity! Loading \')
+print ("\033[92m",time.ctime(time.time()),"\033[0m \033[94m Thanks for helping us out with ddosing, member of Infinity! Loading - \033[0m")
 
 time.sleep(0.5)
 
-print('Thanks for helping us out with ddosing, member of Infinity! Loading |')
+print ("\033[92m",time.ctime(time.time()),"\033[0m \033[94m Thanks for helping us out with ddosing, member of Infinity! Loading \ \033[0m")
+
+time.sleep(0.5)
+
+print ("\033[92m",time.ctime(time.time()),"\033[0m \033[94m Thanks for helping us out with ddosing, member of Infinity! Loading | \033[0m")
 
 time.sleep(0.5)
 
